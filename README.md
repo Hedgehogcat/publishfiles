@@ -1,0 +1,2 @@
+# publishfiles
+dotnet publishfiles
